@@ -8765,6 +8765,35 @@ textarea.form-control {
   .custom-pagination .next {
     float: right; }
 
+    /* cv button - */
+  .btn-outline-light {
+  color: #B381B3;
+  background-color: transparent;
+  background-image: none;
+  border-color: #B381B3; }
+  .btn-outline-light:hover {
+    color: #212529;
+    background-color: #B381B3;
+    border-color: #B381B3; }
+  .btn-outline-light:focus, .btn-outline-light.focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+    box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5); }
+  .btn-outline-light.disabled, .btn-outline-light:disabled {
+    color: #B381B3;
+    background-color: transparent; }
+  .btn-outline-light:not(:disabled):not(.disabled):active, .btn-outline-light:not(:disabled):not(.disabled).active,
+  .show > .btn-outline-light.dropdown-toggle {
+    color: #212529;
+    background-color: #B381B3;
+    border-color: #B381B3; }
+    .btn-outline-light:not(:disabled):not(.disabled):active:focus, .btn-outline-light:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-outline-light.dropdown-toggle:focus {
+      -webkit-box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+      box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5); }
+
+
+
+
 /* Blog*/
 .post-info {
   font-size: 12px;
