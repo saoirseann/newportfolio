@@ -9317,3 +9317,37 @@ textarea.form-control {
   height: 100%;
   z-index: 9;
 }
+
+.portfolio-meta {
+      margin-top: 2%;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+.portfolio-meta h2 {
+    
+    font-size: 1.7em;
+}
+
+.portfolio-meta h3 {
+    
+    font-size:  1.2em;
+    color: #B181B3;
+}
+
+.port {
+    width: 100%;
+}
+
+video {
+width: 130%;
+   
+}
+
+.video1 {
+    overflow: hidden;
+    width: 55%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+.img-fluid .max-width: 100%; and height: auto;
