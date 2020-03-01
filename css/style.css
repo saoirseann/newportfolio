@@ -8051,7 +8051,7 @@ header {
     color: #fff; }
     .btn.btn-primary:hover {
       border: 1px solid #121212;
-      background: transparent;
+      background: #b381b3;
       color: #121212; }
     .btn.btn-primary.btn-outline-primary {
       border: 1px solid #b381b3;
@@ -8069,7 +8069,7 @@ header {
     .btn.btn-outline-white:hover, .btn.btn-outline-white:focus, .btn.btn-outline-white:active {
       background: #fff;
       border-color: #fff;
-      color: #121212; }
+      color: #b381b3; }
 
 
 
