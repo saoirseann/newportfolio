@@ -325,7 +325,8 @@ h1, h2, h3, h4, h5, h6,
   color: inherit; }
 
 h1, .h1 {
-  font-size: 2.5rem; }
+  font-size: 2.5rem; 
+    }
 
 h2, .h2 {
   font-size: 2rem; }
@@ -7561,11 +7562,11 @@ header {
           color: rgba(255, 255, 255, 0.08); }
         .owl-carousel.home-slider .slider-item .slider-text h1 {
           font-size: 55px;
-          color: #fff;
+          color: #B181B3;
           line-height: 1.2;
           font-weight: 700;
-          text-transform: uppercase;
-          letter-spacing: 10px;
+          text-transform: none;
+          letter-spacing: 2px;
           display: inline-block;
           position: relative; }
           @media (max-width: 991.98px) {
@@ -8971,4 +8972,13 @@ width: 130%;
     width: 55%;
     margin: auto;
     margin-bottom: 8%;
+}
+
+.intro {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%; }
 }
